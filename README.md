@@ -1,3 +1,7 @@
+My 3rd React/Redux project
+
+[View this project on CodePen](https://codepen.io/BeshehAlMaleh/pen/MdgRbz)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
